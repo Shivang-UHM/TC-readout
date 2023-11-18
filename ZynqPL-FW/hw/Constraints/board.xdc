@@ -240,12 +240,12 @@ set_property IOSTANDARD LVCMOS25 [get_ports B_DO_1]
 #set_property IOSTANDARD LVDS_25 [get_ports INPUT_CLK_N]	; # 81
 #set_property IOSTANDARD LVDS_25 [get_ports INPUT_CLK_P]	; # 83
 ###########33
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_2}]
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_3}]
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_4}]
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_5}]
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_6}]
-set_property IOSTANDARD LVCMOS25 [get_ports B_DO_7}]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_2]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_3]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_4]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_5]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_6]
+set_property IOSTANDARD LVCMOS25 [get_ports B_DO_7]
 # JX2 even pins
 #set_property IOSTANDARD LVCMOS25 [get_ports CS_ENABLE]	; # 2
 #set_property IOSTANDARD LVCMOS25 [get_ports SDA]	; # 4
