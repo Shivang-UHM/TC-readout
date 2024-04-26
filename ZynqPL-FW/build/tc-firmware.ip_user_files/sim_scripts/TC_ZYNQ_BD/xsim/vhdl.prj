@@ -1,0 +1,12 @@
+vhdl xil_defaultlib  \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_proc_sys_reset_0_0/sim/TC_ZYNQ_BD_proc_sys_reset_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_util_ds_buf_0_0/sim/TC_ZYNQ_BD_util_ds_buf_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_util_ds_buf_1_0/sim/TC_ZYNQ_BD_util_ds_buf_1_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_TARGETC_Top_0_0/sim/TC_ZYNQ_BD_TARGETC_Top_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_Data2AxiStream_0_0/sim/TC_ZYNQ_BD_Data2AxiStream_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_Control_multipleTC_0_0/sim/TC_ZYNQ_BD_Control_multipleTC_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/ip/TC_ZYNQ_BD_axi_dma_0_0/sim/TC_ZYNQ_BD_axi_dma_0_0.vhd" \
+"../../../bd/TC_ZYNQ_BD/sim/TC_ZYNQ_BD.vhd" \
+
+nosort

@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home1/shivang/github/TC-readout/ZynqPL-FW/build/tc-firmware.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/sim/Packages/simulation_pkg.vhd,1698289311,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/sim/RoundBuffer_TB/TB_Roundbuffer.vhd,,,simulation_pkg,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/sim/RoundBuffer_TB/TB_Roundbuffer.vhd,1700255036,vhdl,,,,tb_roundbuffer,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/BasicComponents/GrayEncoder.vhd,1697575781,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/TC_ClockManagement.vhd,,,gray_encoder,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/BasicComponents/SyncBit.vhd,1697663554,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,syncbit,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/BasicComponents/counter.vhdl,1697575627,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/TC_ClockManagement.vhd,,,counter,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/Packages/TARGETC_pkg.vhd,1697586582,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/sim/RoundBuffer_TB/TB_Roundbuffer.vhd,,,targetc_pkg,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/Packages/WindowCPU_pkg.vhd,1699305108,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/sim/RoundBuffer_TB/TB_Roundbuffer.vhd,,,windowcpu_pkg,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/CPU_CONTROLLER.vhd,1700005616,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,cpu_controller,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/HMB_roundBuffer.vhd,1699305106,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,hmb_roundbuffer,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,1699581163,vhdl,,,,roundbuffer,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/WindowStore.vhd,1699305104,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,windowstore,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/nextAddressCnt.vhd,1698201406,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,nextaddresscnt,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/pedestalTrigger.vhd,1698369912,vhdl,/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/RoundBuffer/RoundBuffer.vhd,,,pedestaltrigger,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/hw/src/TC_ClockManagement.vhd,1698197309,vhdl,,,,tc_clockmanagement,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/AXI_TRIG_AFIFO/sim/AXI_TRIG_AFIFO.v,1699310464,verilog,,/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_wdo_addr_fifo/sim/axi_wdo_addr_fifo.v,,AXI_TRIG_AFIFO,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_cmd_fifo_11W_5D/sim/axi_cmd_fifo_11W_5D.v,1699309967,verilog,,/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/dig_sto_fifo_9W_16D/sim/dig_sto_fifo_9W_16D.v,,axi_cmd_fifo_11W_5D,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_time_fifo_64W_32D/sim/axi_time_fifo_64W_32D.v,1699310264,verilog,,/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_cmd_fifo_11W_5D/sim/axi_cmd_fifo_11W_5D.v,,axi_time_fifo_64W_32D,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_wdo_addr_fifo/sim/axi_wdo_addr_fifo.v,1699309633,verilog,,/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/axi_time_fifo_64W_32D/sim/axi_time_fifo_64W_32D.v,,axi_wdo_addr_fifo,,,,,,,,
+/home1/shivang/github/TC-readout/ZynqPL-FW/ip_repo/dig_sto_fifo_9W_16D/sim/dig_sto_fifo_9W_16D.v,1699310843,verilog,,,,dig_sto_fifo_9W_16D,,,,,,,,

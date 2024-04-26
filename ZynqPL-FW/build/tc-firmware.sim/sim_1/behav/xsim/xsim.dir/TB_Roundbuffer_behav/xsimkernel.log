@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_Roundbuffer_behav/xsimk -simmode gui -wdb TB_Roundbuffer_behav.wdb -simrunnum 0 -socket 45247
+Design successfully loaded
+Design Loading Memory Usage: 30392 KB (Peak: 30400 KB)
+Design Loading CPU Usage: 170 ms
+Simulation completed
+Simulation Memory Usage: 120740 KB (Peak: 169660 KB)
+Simulation CPU Usage: 390 ms

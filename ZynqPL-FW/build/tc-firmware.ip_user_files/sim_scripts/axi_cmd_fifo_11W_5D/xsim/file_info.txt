@@ -1,0 +1,2 @@
+axi_cmd_fifo_11W_5D.v,verilog,xil_defaultlib,../../../../../ip_repo/axi_cmd_fifo_11W_5D/sim/axi_cmd_fifo_11W_5D.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

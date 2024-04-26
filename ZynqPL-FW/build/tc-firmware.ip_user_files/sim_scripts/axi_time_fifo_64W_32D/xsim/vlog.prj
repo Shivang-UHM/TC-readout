@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../ip_repo/axi_time_fifo_64W_32D/sim/axi_time_fifo_64W_32D.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

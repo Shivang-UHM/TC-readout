@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../hw/src/Packages/TARGETC_pkg.vhd" \
+"../../../../../hw/src/Packages/WindowCPU_pkg.vhd" \
+"../../../../../hw/src/RoundBuffer/CPU_CONTROLLER.vhd" \
+"../../../../../hw/src/BasicComponents/GrayEncoder.vhd" \
+"../../../../../hw/src/RoundBuffer/HMB_roundBuffer.vhd" \
+"../../../../../hw/sim/Packages/simulation_pkg.vhd" \
+"../../../../../hw/src/BasicComponents/counter.vhdl" \
+"../../../../../hw/src/TC_ClockManagement.vhd" \
+"../../../../../hw/src/BasicComponents/SyncBit.vhd" \
+"../../../../../hw/src/RoundBuffer/WindowStore.vhd" \
+"../../../../../hw/src/RoundBuffer/nextAddressCnt.vhd" \
+"../../../../../hw/src/RoundBuffer/pedestalTrigger.vhd" \
+"../../../../../hw/src/RoundBuffer/RoundBuffer.vhd" \
+"../../../../../hw/sim/RoundBuffer_TB/TB_Roundbuffer.vhd" \
+
+# Do not sort compile order
+nosort

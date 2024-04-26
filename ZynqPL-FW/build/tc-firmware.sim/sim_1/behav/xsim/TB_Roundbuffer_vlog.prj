@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../ip_repo/AXI_TRIG_AFIFO/sim/AXI_TRIG_AFIFO.v" \
+"../../../../../ip_repo/axi_wdo_addr_fifo/sim/axi_wdo_addr_fifo.v" \
+"../../../../../ip_repo/axi_time_fifo_64W_32D/sim/axi_time_fifo_64W_32D.v" \
+"../../../../../ip_repo/axi_cmd_fifo_11W_5D/sim/axi_cmd_fifo_11W_5D.v" \
+"../../../../../ip_repo/dig_sto_fifo_9W_16D/sim/dig_sto_fifo_9W_16D.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
